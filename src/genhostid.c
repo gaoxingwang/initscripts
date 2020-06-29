@@ -49,3 +49,5 @@ int main (void)
 
   return sethostid ((int32_t) n);
 }
+
+//test
